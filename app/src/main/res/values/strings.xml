@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ParcialPrograIV</string>
+    <string name="contenido">Contenido:</string>
+    <string name="action_bar">Action Bar</string>
+    <string name="guardar_proyecto_en_github">Guardar proyecto en github</string>
+    <string name="soporta_varios_lenguajes">Soporta varios lenguajes</string>
+    <string name="ciclo_de_vida_de_la_aplicacion">Ciclo de vida de la aplicacion</string>
+    <string name="uso_de_fragmentos_dinamicos">Uso de fragmentos dinamicos</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="envianos_tus_comentarios">Envianos tus comentarios.</string>
+    <string name="acerca_del_proyecto">Acerca del proyecto...</string>
+    <string name="mensaje_de_bienvenida">MENSAJE DE BIENVENIDA</string>
+    <string name="esta_es_una_aplicacion_de_prueba_con_el_motivo_de_implementar_los_puntos_a_tocar_en_el_parcial_numero_2_de_programacion_de_computadoras_iv">
+        Esta es una aplicacion de prueba, con el motivo de implementar los puntos a tocar en el parcial numero 2 de
+        Programacion de Computadoras IV
+    </string>
+    <string name="ingresa_tu_e_mail">Ingresa tu E-mail</string>
+    <string name="enviar_comentario">Enviar comentario</string>
+    <string name="ingresa_tu_mensaje">Ingresa tu mensaje</string>
+    <string name="comentario_enviado">Comentario enviado exitosamente</string>
+    <string name="estadisticas">Estadisticas</string>
+    <string name="llenar">Por favor llenar los campos indicados</string>
+    <string name="mostar_mensaje_de_bienvenida">Mostar Mensaje de bienvenida</string>
+    <string name="estadisticast">No hay estadisticas que mostrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

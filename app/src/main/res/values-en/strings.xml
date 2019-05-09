@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProgIVPart</string>
+    <string name="acerca_del_proyecto">About project...</string>
+    <string name="action_bar">ActionBar</string>
+    <string name="esta_es_una_aplicacion_de_prueba_con_el_motivo_de_implementar_los_puntos_a_tocar_en_el_parcial_numero_2_de_programacion_de_computadoras_iv">
+        This is a test application, with the purpose of implementing the points that will be played in partial number 2
+        of computer programming IV
+    </string>
+    <string name="envianos_tus_comentarios">Send us your comments.</string>
+    <string name="contenido">Content:</string>
+    <string name="ciclo_de_vida_de_la_aplicacion">Life cycle of an application</string>
+    <string name="guardar_proyecto_en_github">Save a project on GitHub</string>
+    <string name="iniciar">Begin</string>
+    <string name="mensaje_de_bienvenida">WELCOME MESSAGE</string>
+    <string name="soporta_varios_lenguajes">Support several languages</string>
+    <string name="uso_de_fragmentos_dinamicos">Use of dynamic fragments</string>
+    <string name="enviar_comentario">Send comment</string>
+    <string name="ingresa_tu_mensaje">Enter your message</string>
+    <string name="ingresa_tu_e_mail">Enter your E-mail</string>
+    <string name="comentario_enviado">Comment sent successfully</string>
+    <string name="estadisticas">Statistics</string>
+    <string name="llenar">Please fill in the fields indicated</string>
+    <string name="mostar_mensaje_de_bienvenida">Show welcome message</string>
+    <string name="estadisticast">There\'s not statistics to show</string>
+</resources>

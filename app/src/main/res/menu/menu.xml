@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/acerca_del_proyecto" android:id="@+id/item1"
+          android:icon="@drawable/ic_book_black_24dp"
+          app:showAsAction="ifRoom" android:visible="true" android:enabled="true"/>
+    <item android:title="@string/envianos_tus_comentarios" app:showAsAction="ifRoom" android:id="@+id/item2"
+          android:icon="@drawable/ic_contact_mail_black_24dp" android:visible="true" android:enabled="true"/>
+    <item android:title="@string/estadisticas" app:showAsAction="ifRoom" android:icon="@drawable/ic_list_black_24dp"
+          android:id="@+id/item3" android:visible="true" android:enabled="true"/>
+</menu>
